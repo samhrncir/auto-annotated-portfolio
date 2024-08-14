@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     title: Lyte patterns
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
