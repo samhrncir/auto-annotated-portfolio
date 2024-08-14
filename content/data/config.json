@@ -84,7 +84,7 @@
             "address": "Fairfax, VA, 22030",
             "addressAltText": "Our address"
         },
-        "copyrightText": "# Powered by [Netlify](https://www.netlify.com/platform/)\n\n",
+        "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/)\n",
         "styles": {
             "self": {
                 "width": "narrow",
