@@ -77,7 +77,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "757-",
+            "phoneNumber": "xxx-xxx-xxxx",
             "phoneAltText": "Our phone number",
             "email": "contact@lytepatterns.com",
             "emailAltText": "Our email",
