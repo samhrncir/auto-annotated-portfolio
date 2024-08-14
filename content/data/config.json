@@ -81,7 +81,7 @@
             "phoneAltText": "Our phone number",
             "email": "contact@lytepatterns.com",
             "emailAltText": "Our email",
-            "address": "Fairfax, VA, 220",
+            "address": "Fairfax, VA, 22030",
             "addressAltText": "Our address"
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/)",
